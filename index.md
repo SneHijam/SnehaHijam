@@ -1,7 +1,5 @@
 ## Hello, my name is Sneha Hijam. 
 
-![Sneha](https://github.com/SneHijam/SnehaHijam/blob/main/Sneha.jpg)
-
 <img src="/https://github.com/SneHijam/SnehaHijam/blob/main/Sneha.jpg"
 style="height: 2209px; width=1657px;"/>
 
