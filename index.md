@@ -1,7 +1,6 @@
 ## Hello, my name is Sneha Hijam. 
 
-<img src="/https://github.com/SneHijam/SnehaHijam/blob/main/Sneha.jpg"
-style="height: 2209px; width=1657px;"/>
+![My Image](My-Image.jpg)
 
 ### I love exploring new things!
 
