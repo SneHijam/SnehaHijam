@@ -1,8 +1,9 @@
 ## Hello, my name is Sneha Hijam. 
 
-![My Image](My-Image.jpg){:height="1000px" }
-
 ### I love exploring new things!
+
+![My Image](My-Image.jpg){:height="2000px" }
+
 
 ### About Me:
 
