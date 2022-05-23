@@ -18,6 +18,7 @@ You receive notifications when you reach 80%, 90%, and 100% of the spending thre
 
 
 
+
 ## **Step 7: Set up access**
 
 IAM access groups provide a way for you to quickly and easily assign access to multiple resources in your account at one time.
@@ -45,6 +46,7 @@ c. Select all roles that apply.
 d. Click **Add** > **Assign**.
 
 See [What makes a good access group strategy?](https://cloud.ibm.com/docs/account?topic=account-account_setup#resource-group-strategy) for details about how to best set-up your access groups.
+
 
 
 
