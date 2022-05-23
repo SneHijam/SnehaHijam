@@ -1,5 +1,7 @@
 ## Hello, my name is Sneha Hijam. 
 
+![Sneha](https://github.com/SneHijam/SnehaHijam/blob/main/Sneha.jpg)
+
 ### I love exploring new things!
 
 ### About Me:
