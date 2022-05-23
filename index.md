@@ -2,7 +2,7 @@
 
 ### I love exploring new things!
 
-![My Image](My-Image.jpg){:height="2000px" }
+![My Image](My-Image.jpg){:height="500px" }
 
 
 ### About Me:
