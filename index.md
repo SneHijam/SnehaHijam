@@ -1,5 +1,5 @@
 ## Hello, my name is Sneha Hijam. 
-![My Image](image.jpg)
+![Image](image.jpg =250x250)
 
 ### I love exploring new things!
 
