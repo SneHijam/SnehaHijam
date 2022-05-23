@@ -1,12 +1,12 @@
 ## Hello, my name is Sneha Hijam. 
 
-![My Image](My-Image.jpg){:height="80px" }
+![My Image](My-Image.jpg){:height="200px" }
 
 ### I love exploring new things!
 
 ### About Me:
 
-######  I am presently working as a **Senior Technical Writer** at **Incadea** **India**. Writing is something which I love to do from the start since school days, and my career starts as a technical writer. I have worked in different domains as a technical writer, worked on multiple documents (UI docs, Developer docs, Deployment docs). It has been a learning curve for me not only in terms of writing, but also to understand new technologies (which make my job more interesting). 
+I am presently working as a **Senior Technical Writer** at **Incadea** **India**. Writing is something which I love to do from the start since school days, and my career starts as a technical writer. I have worked in different domains as a technical writer, worked on multiple documents (UI docs, Developer docs, Deployment docs). It has been a learning curve for me not only in terms of writing, but also to understand new technologies (which make my job more interesting). 
 
 ### Skills Summary:
 - Strong Knowledge on DITA, XML and HTML based authoring tools like Arbor Text Editor, Epic Editor, Cosima Go, RoboHelp, and Adobe Frame Maker.
