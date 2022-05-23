@@ -1,6 +1,6 @@
 ## Hello, my name is Sneha Hijam. 
 
-![My Image](My-Image.jpg)
+![My Image](My-Image.jpg){:height="36px" }
 
 ### I love exploring new things!
 
