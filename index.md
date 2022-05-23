@@ -1,3 +1,7 @@
+---
+layout: templates
+---
+
 ## Hello, my name is Sneha Hijam. 
 
 ### I love exploring new things!
