@@ -1,5 +1,5 @@
 ## Hello, my name is Sneha Hijam. 
-![My Image](image.jpg width="1657px" height="2209px")
+![My Image](image.jpg)
 
 ### I love exploring new things!
 
