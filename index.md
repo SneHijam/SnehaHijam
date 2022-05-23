@@ -2,6 +2,9 @@
 
 ![Sneha](https://github.com/SneHijam/SnehaHijam/blob/main/Sneha.jpg)
 
+<img src="/https://github.com/SneHijam/SnehaHijam/blob/main/Sneha.jpg"
+style="height: 2209px; width=1657px;"/>
+
 ### I love exploring new things!
 
 ### About Me:
