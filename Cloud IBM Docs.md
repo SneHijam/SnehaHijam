@@ -6,7 +6,7 @@ layout: templates
 
 Complete the following steps to set your preferences for receiving various types of notifications:
 
-(1) To receive notifications about IBM Cloud platform-related, or resource-related items, go to the **Avatar** icon ![Avatar Icon](Avatar Icon.jpg){:height="50px" } **Profile** > **Notification preferences**.
+(1) To receive notifications about IBM Cloud platform-related, or resource-related items, go to the **Avatar** icon ![Avatar Icon](Avatar Icon.jpg){:width="50px" } **Profile** > **Notification preferences**.
 
 * When you set IBM Cloud platform notifications, you receive email notifications that are associated with only the platform. You do not receive notifications about events that are associated with IBM Cloud services. By default, all platform notifications are turned off.
 
@@ -30,7 +30,7 @@ a. Go to **Manage** > **Access (IAM)** > **Access Groups** in the IBM Cloud cons
 b. Click **Create**.
  
 c. Enter a name for your group, and click **Create**. For example, if you know multiple users in your account need to be able to apply subscription codes, track usage, or perform other billed-related tasks, you might name your group 
-```
+```js
 Billing-Editor-Access.
 ```
     
